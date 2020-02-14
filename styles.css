@@ -1,0 +1,13 @@
+.jumbotron{
+    text-align: center;
+}
+body{
+    background-image: url("/home/reuben/Documents/Birthday-project/images/hello-lightbulb-oXr8trnKS3I-unsplash.jpg");
+    background-size: cover;
+}
+.p1{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 200px;
+    font-size: x-large;
+}
