@@ -11,3 +11,29 @@ body{
     font-weight: 200px;
     font-size: x-large;
 }
+.name{
+    font-size: x-large;
+    font-style: italic;
+}
+form{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: cornsilk;
+}
+h1{
+    color: cornsilk;
+}
+.cont{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+}
+.mail:hover{
+    color: beige;
+}
+.tel:hover{
+    color: beige
+}
+
