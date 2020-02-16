@@ -19,6 +19,9 @@ This is a placeholder where the user inputs the month on which they are born.
 This is a radio button where the user selects their gender.
 #### Submit :
 This is a button that submits the content entered in the placeholderrs.
+
+<img scr="/home/reuben/Documents/Birthday-project/images/Screenshot from 2020-02-16 14-27-21.png">
+
 ## Live link
 https://reuben357.github.io/Akan-names/ 
 ## Technologies Used
