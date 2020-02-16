@@ -20,7 +20,7 @@ This is a radio button where the user selects their gender.
 #### Submit :
 This is a button that submits the content entered in the placeholderrs.
 
-<img scr="https://github.com/Reuben357/Akan-names/blob/development/images/Screenshot%20from%202020-02-16%2014-27-21.png">
+![](https://github.com/Reuben357/Akan-names/blob/development/images/Screenshot%20from%202020-02-16%2014-27-21.png)
 
 ## Live link
 https://reuben357.github.io/Akan-names/ 
