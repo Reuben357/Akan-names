@@ -24,6 +24,8 @@ This is a button that submits the content entered in the placeholderrs.
 
 ## Live link
 https://reuben357.github.io/Akan-names/ 
+## Known Bugs
+No know bugs
 ## Technologies Used
 Some of the technologies used are HTML ,CSS and JavaScript.
 ## Contact Information
