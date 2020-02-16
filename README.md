@@ -19,7 +19,8 @@ This is a placeholder where the user inputs the month on which they are born.
 This is a radio button where the user selects their gender.
 #### Submit :
 This is a button that submits the content entered in the placeholderrs.
-
+## Live link
+https://reuben357.github.io/Akan-names/ 
 ## Technologies Used
 Some of the technologies used are HTML ,CSS and JavaScript.
 ## Contact Information
